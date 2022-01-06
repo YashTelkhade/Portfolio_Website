@@ -1,7 +1,7 @@
 .i {
     display: flex;
     height: 100vh;
-    background-image: url("D:\study material\Projects\Portfolio Website\portfolio\src\img\jeremy-bishop-KrHNUF7rd3U-unsplash.jpg");
+    background-image: url("../../img/jeremy-bishop-KrHNUF7rd3U-unsplash.jpg");
     background-size: contain;
 
   }
@@ -125,7 +125,7 @@
   @media screen and (max-width: 480px) {
     .i {
       flex-direction: column;
-      background-image: url("D:\study material\Projects\Portfolio Website\portfolio\src\img\jeremy-bishop-KrHNUF7rd3U-unsplash.jpg");
+      background-image: url("../../img/jeremy-bishop-KrHNUF7rd3U-unsplash.jpg");
       background-size: cover;
       
     }
