@@ -140,6 +140,10 @@
       
     }
 
+    .svgfile{
+      display:none
+    }
+
     .i-intro {
       font-size: 30px;
       font-weight: 300;

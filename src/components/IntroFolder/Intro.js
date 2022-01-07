@@ -37,6 +37,7 @@ Management, and even Dramatics.
             </p>
             </div>
           </div>
+          <div className="svgfile">
           <svg
             width="75"
             height="75"
@@ -93,6 +94,7 @@ Management, and even Dramatics.
               </g>
             </g>
           </svg>
+          </div>
         </div>
         <div className="i-right">
           {/* <div className="i-bg"></div> */}
