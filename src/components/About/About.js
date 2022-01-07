@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import './About.css'
-import Award from "../../img/award.png"
 import Image from "../../img/graduate.jpg"
 export class About extends Component {
     render() {
