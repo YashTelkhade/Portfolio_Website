@@ -1,4 +1,4 @@
-# Personalized Portfolio Website 
+# Personalized Responsive Portfolio Web-Bulletin 
 # Online preview at https://yashtelkhade.netlify.app/
 
 
