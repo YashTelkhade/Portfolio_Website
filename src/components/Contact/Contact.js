@@ -14,8 +14,8 @@ function Contact() {
     
     const handleSubmit = (e)=>{
         e.preventDefault()
+        alert("Thanks for Connecting!")
 
-        console.log('Hello Yash');
         emailjs.sendForm('service_afwxvih', 'template_vnv5qd9', formRef.current, 'user_K1Ol5PQWTfnKyNtu9lrUG')
         .then((result) => {
             console.log(result.text);
