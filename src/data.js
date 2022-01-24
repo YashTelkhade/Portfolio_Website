@@ -4,6 +4,8 @@ import GMAPS from './img/merge_from_ofoct.jpg'
 import CNC from './img/merge_from_ofoct (1).jpg'
 import Alexa from './img/pexels-anete-lusina-4790261.jpg'
 import Chatbot from './img/istockphoto-1328670371-170667a.jpg'
+import MLModel from './img/MLModel.jpg'
+
 
 
 export const projects = [
@@ -41,6 +43,12 @@ export const projects = [
       id: 6,
       img: Chatbot,
       name1:"Hotel Chatbot System"
+    },
+    {
+      id: 7,
+      img: MLModel,
+      link: "https://github.com/YashTelkhade/Real-Estate-Price-Prediction-Project",
+      name1:"Real Estate Price Prediction Model"
     }
   ];
   
