@@ -5,10 +5,18 @@ import CNC from './img/merge_from_ofoct (1).jpg'
 import Alexa from './img/pexels-anete-lusina-4790261.jpg'
 import Chatbot from './img/istockphoto-1328670371-170667a.jpg'
 import MLModel from './img/MLModel.jpg'
-
+import Salon from './img/Salon.png'
 
 
 export const projects = [
+
+    {
+      id: 8,
+      img: Salon,
+      link: "https://dev-s2mhub.pantheonsite.io/",
+      name1:"Appointment Booking App"
+    },
+
     {
       id: 1,
       img: Railway,

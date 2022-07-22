@@ -14,9 +14,6 @@ export class Project extends Component {
         }
     }
 
-
-
-
     render() {
         return (
             <div className='p full border'>
